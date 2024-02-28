@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# Nest.js specific
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dependency directories
+pids/
+logs/
